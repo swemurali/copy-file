@@ -46,7 +46,7 @@ print("\nFile Copied Successfully!")
 ```
 ### OUTPUT:
 ## Python File:
-![](py.png)
+![](py1.png)
 ## Source File:
 ![](txt1.png)
 ## Target File:
